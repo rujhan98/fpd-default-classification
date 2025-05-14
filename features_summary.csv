@@ -1,0 +1,31 @@
+final_features,Description
+VarianceTable_variance_table_bank_aba_score,Risk score associated with the bank ABA routing number.
+VarianceTable_variance_table_device_device_type_Missing,Indicator of whether device type field was missing or not
+VarianceTable_variance_table_device_is_mobile_device_Missing,Indicator of whether device was mobile or not was missing or not
+VarianceTable_variance_table_device_browser_Missing,Indicator of whether device browser field was missing or not
+VarianceTable_variance_table_device_crawler_Missing,Indicator of whether device crawler field was missing or not
+VarianceTable_variance_table_device_platform_Missing,Indicator of whether device platform field was missing or not
+VarianceTable_variance_table_device_is_tablet_Missing,Indicator of whether device was tablet was missing or not
+PricingTool_predictions_min_TE,Target encoded representation of predictions min
+PricingTool_basic_5_basic_worth_5_,PricingTool metric
+VarianceTable_cross_variance_table_driver_license_email_count_all_time,Number of email linked to this DL over the all time period
+VarianceTable_ssn_variance_table_email_count_all_time,Number of email addresses linked to SSN over the all time period.
+VarianceTable_cross_variance_table_driver_license_bank_account_count_365_days,Number of accounts linked to this DL over the 365 days period
+VarianceTable_ssn_variance_table_bank_account_count_365_days_VarianceTable_ssn_variance_table_bank_account_count_90_days,Number of accounts with this SSN In past 365 days/Number of accounts with this SSN In past 90 days
+VarianceTable_ssn_variance_table_lead_count_15_days_VarianceTable_ssn_variance_table_lead_count_365_days,Number of applications with this SSN In past 15 days/Number of applications with this SSN In past 365 days
+VarianceTable_cross_variance_table_phone_bank_account_count_365_days,Number of accounts linked to this phone over 365 days
+VarianceTable_cross_variance_table_bank_account_email_count_365_days_VarianceTable_cross_variance_table_bank_account_ip_count_7_days,Number of emails to the account over past year/Number of IPs to this account over past 7 days
+VarianceTable_ssn_variance_table_sum_count_15_days,Sum of number of applcations over past 15 days
+VarianceTable_cross_variance_table_phone_bank_account_count_365_days_VarianceTable_cross_variance_table_phone_bank_account_count_90_days,Number of accounts to the phone over past year/Number of accounts to this phone over past 7 days
+VarianceTable_ssn_variance_table_multiple_count_all_time,Product of number of applcations linked to this SSN over all time windows
+VarianceTable_cross_variance_table_email_bank_account_count_all_time,Number of accounts linked to this email over all time
+VarianceTable_ssn_variance_table_work_phone_count_7_days,Number of phone numbers linked to this SSN over past 7 days
+PricingTool_predictions_50_100,PricingTool Prediction for this bucket
+VarianceTable_cross_variance_table_bank_account_ip_count_365_days_VarianceTable_cross_variance_table_bank_account_ip_count_7_days,Number of IPs to the account over past year/Number of IPs to this account over past 7 days
+VarianceTable_ssn_variance_table_user_agent_browser_count_7_days,Number of user agent platforms with this SSN over past 7 days
+VarianceTable_ssn_variance_table_lead_count_15_days_velocity,Velocity based feature - number of leads to this SSN over 15 days/average(number of leads to an SSN over past 15 days)
+VarianceTable_cross_variance_table_email_bank_account_count_90_days_velocity,Velocity based feature - number of account to this email over 90 days/average(number of accounts to an email over past 90 days)
+VarianceTable_ssn_variance_table_bank_account_count_all_time,Number of bank accounts linked to SSN over the all time period.
+VarianceTable_variance_table_device_parent_TE,Target encoded representation of device parent
+VarianceTable_ssn_variance_table_lead_count_7_days_VarianceTable_ssn_variance_table_lead_count_90_days,Number of applications with this SSN In past 7 days/Number of applications with this SSN In past 90 days
+VarianceTable_cross_variance_table_driver_license_phone_count_all_time,Number of phone numbers linked to this DL over all time

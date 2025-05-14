@@ -1,0 +1,42 @@
+
+{
+    "final_features": ["VarianceTable_variance_table_bank_aba_score",
+    "VarianceTable_variance_table_device_device_type_Missing",
+    "VarianceTable_variance_table_device_is_mobile_device_Missing",
+    "VarianceTable_variance_table_device_browser_Missing",
+    "VarianceTable_variance_table_device_crawler_Missing",
+    "VarianceTable_variance_table_device_platform_Missing",
+    "VarianceTable_variance_table_device_is_tablet_Missing",
+    "PricingTool_predictions_min_TE",
+    "PricingTool_basic_5_basic_worth_5_",
+    "VarianceTable_cross_variance_table_driver_license_email_count_all_time",
+    "VarianceTable_ssn_variance_table_email_count_all_time",
+    "VarianceTable_cross_variance_table_driver_license_bank_account_count_365_days",
+    "VarianceTable_ssn_variance_table_bank_account_count_365_days_VarianceTable_ssn_variance_table_bank_account_count_90_days",
+    "VarianceTable_ssn_variance_table_lead_count_15_days_VarianceTable_ssn_variance_table_lead_count_365_days",
+    "VarianceTable_cross_variance_table_phone_bank_account_count_365_days",
+    "VarianceTable_cross_variance_table_bank_account_email_count_365_days_VarianceTable_cross_variance_table_bank_account_ip_count_7_days",
+    "VarianceTable_ssn_variance_table_sum_count_15_days",
+    "VarianceTable_cross_variance_table_phone_bank_account_count_365_days_VarianceTable_cross_variance_table_phone_bank_account_count_90_days",
+    "VarianceTable_ssn_variance_table_multiple_count_all_time",
+    "VarianceTable_cross_variance_table_email_bank_account_count_all_time",
+    "VarianceTable_ssn_variance_table_work_phone_count_7_days",
+    "PricingTool_predictions_50_100",
+    "VarianceTable_cross_variance_table_bank_account_ip_count_365_days_VarianceTable_cross_variance_table_bank_account_ip_count_7_days",
+    "VarianceTable_ssn_variance_table_user_agent_browser_count_7_days",
+    "VarianceTable_ssn_variance_table_lead_count_15_days_velocity",
+    "VarianceTable_cross_variance_table_email_bank_account_count_90_days_velocity",
+    "VarianceTable_ssn_variance_table_bank_account_count_all_time",
+    "VarianceTable_variance_table_device_parent_TE",
+    "VarianceTable_ssn_variance_table_lead_count_7_days_VarianceTable_ssn_variance_table_lead_count_90_days",
+    "VarianceTable_cross_variance_table_driver_license_phone_count_all_time"],
+    "lb_months_at_address_median": 24,
+    "file_name" :"Interview_data_set 3.csv"
+}
+
+
+
+
+
+
+
